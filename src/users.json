@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "Tom",
+    "email": "Tom@mail.ru",
+    "registrationDate": "2022-03-01",
+    "isAdmin": false
+  },
+  {
+    "id": 2,
+    "username": "Sara",
+    "email": "Sara@mail.ru",
+    "registrationDate": "2023-03-02",
+    "isAdmin": true
+  },
+  {
+    "id": 3,
+    "username": "John",
+    "email": "John@mail.ru",
+    "registrationDate": "2021-04-01",
+    "isAdmin": false
+  }
+]
